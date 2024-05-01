@@ -12,8 +12,12 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![Donate][donate-paypal]](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZSY2FXPUHXVUJ)
 
+
+# !!DEPRECATED!!
+Due to the introduction of Vanguard, League Broadcast ingame will no longer function.
+There are plans for the future, however, for now, only champ select is function
+Join our [Discord](http://discord.lolfar.site) to stay informed about future updates.
 
 <!-- ABOUT THE PROJECT -->
 ## League Broadcast
@@ -22,9 +26,7 @@ A central hub for League of Legends stream overlays to augment and elevate strea
 
 Currently includes support for champion select and ingame overlays, with post game support as a possible future feature.
 
-League Broadcast uses Memory Reading to get information that the Riot API does not expose. Riot's policy in the past has been to allow passive memory reading, which is exactly what this program does, but this may change at any time.
-Use League Broadcast at your own risk. Anti Cheat does not ban for programs used during spectate, but it does however run while in a live game. Having League Broadcast open
-during a live (non-spectate) game may lead to account bans incase checks to stop it from running fail for some reason.
+League Broadcast uses Memory Reading to get information that the Riot API does not expose. This is not possible any more due to Vanguard Anti Cheat. 
 
 ## Community and Contact
 Join our [Discord](http://discord.lolfar.site)
@@ -112,11 +114,8 @@ Change the images and videos in `Frontend/ingame` to swap out resources.
 <!-- ROADMAP -->
 ## Roadmap
 
-Breaking Issues will be fixed.
 
 Current overhaul in progress. __Earliest release - mid/late 2024__.
-
-If the current version of this tool is missing any vital features, please tell us on discord.
 
 <!-- LICENSE -->
 ## License
@@ -125,8 +124,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 __This is a standalone project from Lars Eble. Riot Games does not endorse or sponsor this project.__  
 
-_Riot Games has expressed tolerance of passive memory reading in past statements, this however may change at any moment. Use this tool at your own discretion._
-
 This project's port of [lol-pick-ban-ui](https://github.com/RCVolus/lol-pick-ban-ui) and its author are in no way affiliated or partnered with Riot Community Volunteers.
 
 
@@ -134,11 +131,6 @@ This project's port of [lol-pick-ban-ui](https://github.com/RCVolus/lol-pick-ban
 ## Contact
 
 Discord - [discord.lolfar.site](http://discord.lolfar.site)
-
-Twitter - [@larseble](https://twitter.com/@larseble)
-
-Support this project: [![Donate](https://img.shields.io/badge/Paypal-Donate-blueviolet?style=flat-square&logo=paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZSY2FXPUHXVUJ)
-
 
 
 
