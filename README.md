@@ -30,6 +30,7 @@ League Broadcast uses Memory Reading to get information that the Riot API does n
 
 ## Community and Contact
 Join our [Discord](http://discord.lolfar.site)
+
 Visit our [Website](https://bluebottle.gg/)
 
 This is the quickest way to reach us and to troubleshoot your issues. 
