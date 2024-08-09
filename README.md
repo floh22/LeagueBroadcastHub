@@ -31,7 +31,7 @@ League Broadcast uses Memory Reading to get information that the Riot API does n
 ## Community and Contact
 Join our [Discord](http://discord.lolfar.site)
 
-Visit our [Website](https://bluebottle.gg/)
+Visit our [Website](https://bluebottle.gg?utm_source=github&utm_medium=link)
 
 This is the quickest way to reach us and to troubleshoot your issues. 
 
@@ -134,7 +134,7 @@ This project's port of [lol-pick-ban-ui](https://github.com/RCVolus/lol-pick-ban
 
 Discord - [discord.lolfar.site](http://discord.lolfar.site)
 
-Website - [Website](https://bluebottle.gg/)
+Website - [Website](https://bluebottle.gg?utm_source=github&utm_medium=link)
 
 
 
